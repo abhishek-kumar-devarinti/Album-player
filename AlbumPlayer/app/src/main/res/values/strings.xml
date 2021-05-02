@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlbumPlayer</string>
+    <string name="album_cover">album cover</string>
+    <string name="previous_song">previous song</string>
+    <string name="pause_or_play">pause or play</string>
+    <string name="next_song">next song</string>
+</resources>
